@@ -10,3 +10,5 @@
 -> use keyboard up, right, down, left keys to play a game.
 
 Thank you.
+
+some more details adding soon
