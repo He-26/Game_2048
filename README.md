@@ -1,35 +1,55 @@
-# Game_2048
--> Using Java, Object Oriented designs.
+🧩 Game 2048
 
--> download that exe file 
+**Languages & Tools Used:**
 
--? install it in locally then play it.
+Java
+Eclipse IDE
+GitHub
 
-**game instructions:**
+**Features**
 
--> use keyboard up, right, down, left keys to play a game.
+Interactive and user-friendly interface
 
-Thank you.
+Keyboard-based gameplay (Up, Down, Left, Right)
 
-some more details adding soon
+Restart option available from the game menu
 
+**Implementation Process**
 
-Implementation Process:
+Created a Java project in Eclipse.
 
-step 1: created java project
-step 2: implemented main logic and successfully run and test it locally
-step 3: created a jar file 
-step 4: download installer pro software from click teams to create a exe file
-step 5: using that software we just generate exe file using that jar file
-step 6: then it will generate exe file 
+Implemented the core game logic and tested it successfully on the local environment.
 
+Generated a JAR file from the project.
 
-Execution Process:
+Downloaded “Installer Pro” software from Clickteam to convert the JAR file into an executable (.exe) file.
 
-step 1: download exe file from repo
-step 2: double click on downloaded file then click on next until you see finish button
-step 3: open that shortcut file which is created on desktop after execution
-step 4: using key boards keys up, down, left, right
-step 5: if we want restart the game then just click on restart option on menu
+Used Installer Pro to create the .exe file from the generated JAR.
 
-thanks
+Executable file successfully generated and tested.
+
+**Execution Instructions**
+
+Download the .exe file from this repository.
+
+Run the installer by double-clicking the file, then click Next until you see the Finish button.
+
+After installation, a desktop shortcut will be created automatically.
+
+Launch the game using the desktop shortcut.
+
+Play using keyboard keys:
+
+⬆️ Up
+
+⬇️ Down
+
+⬅️ Left
+
+➡️ Right
+
+To restart the game, click on the Restart option from the menu bar.
+
+**Thank You**
+
+Thank you for checking out Game 2048!
