@@ -8,32 +8,32 @@
 
 **Features**
 
--> Interactive and user-friendly interface
--> Keyboard-based gameplay (Up, Down, Left, Right)
--> Restart option available from the game menu
+-> Interactive and user-friendly interface<br/>
+-> Keyboard-based gameplay (Up, Down, Left, Right)<br/>
+-> Restart option available from the game menu<br/>
 
 **Implementation Process**
 
--> Created a Java project in Eclipse.
--> Implemented the core game logic and tested it successfully on the local environment.
--> Generated a JAR file from the project.
--> Downloaded “Installer Pro” software from Clickteam to convert the JAR file into an executable (.exe) file.
--> Used Installer Pro to create the .exe file from the generated JAR.
--> Executable file successfully generated and tested.
+-> Created a Java project in Eclipse.<br/>
+-> Implemented the core game logic and tested it successfully on the local environment.<br/>
+-> Generated a JAR file from the project.<br/>
+-> Downloaded “Installer Pro” software from Clickteam to convert the JAR file into an executable (.exe) file.<br/>
+-> Used Installer Pro to create the .exe file from the generated JAR.<br/>
+-> Executable file successfully generated and tested.<br/>
 
 **Execution Instructions**
 
--> Download the .exe file from this repository.
--> Run the installer by double-clicking the file, then click Next until you see the Finish button.
--> After installation, a desktop shortcut will be created automatically.
--> Launch the game using the desktop shortcut.
--> Play using keyboard keys:
-    ⬆️ Up
-    ⬇️ Down
-    ⬅️ Left
-    ➡️ Right
--> To restart the game, click on the Restart option from the menu bar.
+-> Download the .exe file from this repository.<br/>
+-> Run the installer by double-clicking the file, then click Next until you see the Finish button.<br/>
+-> After installation, a desktop shortcut will be created automatically.<br/>
+-> Launch the game using the desktop shortcut.<br/>
+-> Play using keyboard keys:<br/>
+    ⬆️ Up<br/>
+    ⬇️ Down<br/>
+    ⬅️ Left<br/>
+    ➡️ Right<br/>
+-> To restart the game, click on the Restart option from the menu bar.<br/>
 
-**Thank You**
+**Thank You**<br/>
 
-Thank you for checking out Game 2048!
+Thank you for checking out Game 2048!<br/>
