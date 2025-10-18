@@ -2,9 +2,9 @@
 
 **Languages & Tools Used:**
 
--> Java
--> Eclipse IDE
--> GitHub
+-> Java<br/>
+-> Eclipse IDE<br/>
+-> GitHub<br/>
 
 **Features**
 
@@ -19,7 +19,6 @@
 -> Generated a JAR file from the project.<br/>
 -> Downloaded “Installer Pro” software from Clickteam to convert the JAR file into an executable (.exe) file.<br/>
 -> Used Installer Pro to create the .exe file from the generated JAR.<br/>
--> Executable file successfully generated and tested.<br/>
 
 **Execution Instructions**
 
